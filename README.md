@@ -5,7 +5,7 @@ The FemTech and Feminist Tech Focus period will host a PhD summer school on May 
 The course workload is equivalent to 4 Högskola poäng. This is approximately equivalent to 106 hours or 4 ECTS. 
 
 ### Intended Learning Outcomes (Provisional!)
-- Develop understanding on feminist perspectives on technology.
+- Develop an understanding of feminist perspectives on technology.
 - Critically engage with how power, invisible labor, and bias shape the digital world.
 
 ### Disposition

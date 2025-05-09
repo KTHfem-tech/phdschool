@@ -1,8 +1,6 @@
 # PhD School
 ## Feminist Perspectives on Technology: Power, Labor, and Justice (4 HP)
-The FemTech and Feminist Tech Focus period will host a PhD summer school on May 22nd and 23rd. The summer school will take place on KTH Campus (location to be confirmed).
-
-It will be a two-day intensive course with four sessions. Participation in the main 3-Day workshop is also included as part of the summer school.
+The FemTech and Feminist Tech Focus period will host a PhD summer school on May 22 and 23. The school will be held at the Digital Futures Hub, located at Osquars Backe 5, Floor 2.
 
 The course workload is equivalent to 4 Högskola poäng. This is approximately equivalent to 106 hours or 4 ECTS. 
 

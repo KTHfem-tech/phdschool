@@ -50,6 +50,6 @@ The course combines theoretical discussions, case studies, and hands-on activiti
 1. Addressing bias in Text-to-Image generative models [[instruction](https://docs.google.com/document/d/1Z8s9qTntFXS4LEWdzBrHa8sMfOHCzkt3tDcGnz5aJSE/edit?usp=sharing)]
 2. Studying invisible labor in AI [[instruction](https://docs.google.com/document/d/1WdmUcncgxE1uSQxZgVitU4vkH-hFG2WzMpKW35E8zSo/edit?usp=sharing)]
 Please read the following papers:
-- Datasheets for Datasets, Timnit Gebru et al., CACM 2021 [link](https://arxiv.org/pdf/1803.09010)
-- Documenting Data Production Processes: A Participatory Approach for Data Work, Milagros Miceli et al., 2022 [link](https://arxiv.org/pdf/2207.04958)
+- Datasheets for Datasets, Timnit Gebru et al., CACM 2021 [[link](https://arxiv.org/pdf/1803.09010)]
+- Documenting Data Production Processes: A Participatory Approach for Data Work, Milagros Miceli et al., 2022 [[link](https://arxiv.org/pdf/2207.04958)]
 

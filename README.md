@@ -24,22 +24,32 @@ The course combines theoretical discussions, case studies, and hands-on activiti
 ---
 
 ### Schedule
-**May 22 - Morning (Digital Futures Hub)**
+**May 22 - Morning ([Digital Futures Hub](https://www.google.se/maps/place/Digital+Futures/@59.3472396,18.0723632,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9de616778af7:0x5838374d0c22d332!8m2!3d59.3472396!4d18.0723632!16s%2Fg%2F11kv7pn2qr?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D))**
 - 9:00-10:20, Session 1: Who Holds Power in Technology?, Amir H. Payberah
 - 10:20-10:40, Break
 - 10:40-12:00, Group Activity 1 (part 1): Addressing bias in Text-to-Image generative models, Amir H. Payberah
 
-**May 22 - Afternoon (Digital Futures Hub)**
+**May 22 - Afternoon ([Digital Futures Hub](https://www.google.se/maps/place/Digital+Futures/@59.3472396,18.0723632,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9de616778af7:0x5838374d0c22d332!8m2!3d59.3472396!4d18.0723632!16s%2Fg%2F11kv7pn2qr?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D))**
 - 13:00-14:20, Session 2: The Invisible Labor Behind Technology, Airi Lampinen
 - 14:20-10:40, Break
 - 14:40-16:00, Group Activity 1 (part 2): Addressing bias in Text-to-Image generative models, Amir H. Payberah
 
-**May 23 - Morning (Digital Futures Hub)**
+**May 23 - Morning ([Digital Futures Hub](https://www.google.se/maps/place/Digital+Futures/@59.3472396,18.0723632,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9de616778af7:0x5838374d0c22d332!8m2!3d59.3472396!4d18.0723632!16s%2Fg%2F11kv7pn2qr?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D))**
 - 9:00-10:20, Session 3: Rethinking Design-Tech Beyond Binaries, Amir H. Payberah
 - 10:20-10:40, Break
 - 10:40-12:00, Group Activity 2: Studying invisible labor in AI, Amir H. Payberah
 
-**May 23 - Afternoon (D-building, room 4618)**
+**May 23 - Afternoon ([D-building, room 4618](https://www.kth.se/places/room/id/33de4c8c-89cc-458e-bbfb-e271e677f886?l=en))**
 - 13:30-15:00, Session 4: Tech Activism and Building Feminist Futures, Marianela Ciolfi Felice
 - 15:00-15:40, Break
 - 15:40-17:00, Panel discussion, Panelist: Rosanna Bellini, Maryam Mehrnezhad, and Ivana Feldfeber, Moderator: Marianela Ciolfi Felice
+
+---
+
+### Group activities
+1. Addressing bias in Text-to-Image generative models [instruction](https://docs.google.com/document/d/1Z8s9qTntFXS4LEWdzBrHa8sMfOHCzkt3tDcGnz5aJSE/edit?usp=sharing)
+2. Studying invisible labor in AI [instruction](https://docs.google.com/document/d/1WdmUcncgxE1uSQxZgVitU4vkH-hFG2WzMpKW35E8zSo/edit?usp=sharing)
+Please read the following papers:
+- Datasheets for Datasets, Timnit Gebru et al., CACM 2021 [link](https://arxiv.org/pdf/1803.09010)
+- Documenting Data Production Processes: A Participatory Approach for Data Work, Milagros Miceli et al., 2022 [link](https://arxiv.org/pdf/2207.04958)
+

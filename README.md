@@ -39,6 +39,3 @@ The course combines theoretical discussions, case studies, and hands-on activiti
 * 13:30-15:00, Session 4: Tech Activism and Building Feminist Futures, Marianela Ciolfi Felice
 * 15:00-15:40, Break
 * 15:40-17:00, Panel discussion, Panelist: Rosanna Bellini, Maryam Mehrnezhad, and Ivana Feldfeber, Moderator: Marianela Ciolfi Felice
- (edited) 
-
-

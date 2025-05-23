@@ -38,7 +38,7 @@ The course combines theoretical discussions, case studies, and hands-on activiti
 - 10:40-12:00, Group Activity 1 (part 1): Addressing bias in Text-to-Image generative models, Amir H. Payberah [[instruction](https://docs.google.com/document/d/1Z8s9qTntFXS4LEWdzBrHa8sMfOHCzkt3tDcGnz5aJSE/edit?usp=sharing)]
 
 **May 22 - Afternoon ([Digital Futures Hub](https://www.google.se/maps/place/Digital+Futures/@59.3472396,18.0723632,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9de616778af7:0x5838374d0c22d332!8m2!3d59.3472396!4d18.0723632!16s%2Fg%2F11kv7pn2qr?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D))**
-- 13:00-14:20, Session 2: The Invisible Labor Behind Technology, Airi Lampinen [[slides](https://github.com/KTHfem-tech/phdschool/blob/main/slides/Session1.pdf)]
+- 13:00-14:20, Session 2: The Invisible Labor Behind Technology, Airi Lampinen [[slides](https://github.com/KTHfem-tech/phdschool/blob/main/slides/Session2.pdf)]
 - 14:20-10:40, Break
 - 14:40-16:00, Group Activity 1 (part 2): Addressing bias in Text-to-Image generative models, Amir H. Payberah [[instruction](https://docs.google.com/document/d/1Z8s9qTntFXS4LEWdzBrHa8sMfOHCzkt3tDcGnz5aJSE/edit?usp=sharing)]
 

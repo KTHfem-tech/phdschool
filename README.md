@@ -61,3 +61,29 @@ The course combines theoretical discussions, case studies, and hands-on activiti
   - Datasheets for Datasets, Timnit Gebru et al., CACM 2021 [[link](https://arxiv.org/pdf/1803.09010)]
   - Documenting Data Production Processes: A Participatory Approach for Data Work, Milagros Miceli et al., 2022 [[link](https://arxiv.org/pdf/2207.04958)]
 
+---
+### Final project
+Please follow the guidelines below for completing your final project:
+1. **Group formation:**
+Form a group of up to five members. Smaller groups are welcome, but no group may have more than five students.
+
+2. **Proposal submission:** Each group must submit a project proposal by May 28 to payberah@kth.se. You may begin working on the project once your proposal is approved. The proposal must include:
+- The names of all group members
+- A brief description of the problem you plan to work on
+- Your main research question
+- An outline of your intended method or approach
+
+3. **Final submission:** Submit your final project by June 13. Each group must submit a written document that includes:
+- The problem you addressed
+- Your research question
+- The key challenges
+- Your project objectives
+- The methods used
+- Your results or achievements
+
+4. **Oral presentation:** After submission, each group will give an online oral presentation. Presentation slots will be scheduled through a Doodle poll, which will be shared with you in due time.
+
+5. **Opposition requirement:** Each group must select another group to act as their opponent. As opponents, you are expected to:
+- Review the chosen group’s submission
+- Prepare thoughtful questions
+- Provide constructive critique during their presentation

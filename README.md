@@ -23,6 +23,14 @@ The course combines theoretical discussions, case studies, and hands-on activiti
 
 ---
 
+### Organizers
+- Amir H. Payberah [[profile](https://payberah.github.io/)]
+- Airi Lampinen [[profile](https://www.su.se/english/profiles/alamp-1.218943)]
+- Marianela Ciolfi Felice [[profile](https://www.kth.se/profile/ciolfi?l=en)]
+- Rob Comber [[profile](https://www.kth.se/profile/rcomber?l=en)]
+
+---
+
 ### Schedule
 **May 22 - Morning ([Digital Futures Hub](https://www.google.se/maps/place/Digital+Futures/@59.3472396,18.0723632,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9de616778af7:0x5838374d0c22d332!8m2!3d59.3472396!4d18.0723632!16s%2Fg%2F11kv7pn2qr?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D))**
 - 9:00-10:20, Session 1: Who Holds Power in Technology?, Amir H. Payberah

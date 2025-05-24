@@ -67,7 +67,7 @@ Please follow the guidelines below for completing your final project:
 1. **Group formation:**
 Form a group of up to five members. Smaller groups are welcome, but no group may have more than five students.
 
-2. **Proposal submission:** Each group must submit a project proposal by May 28 to payberah@kth.se. You may begin working on the project once your proposal is approved. The proposal must include:
+2. **Proposal submission:** Each group must submit a project proposal by June 2 to payberah@kth.se. You may begin working on the project once your proposal is approved. The proposal must include:
    - The names of all group members
    - A brief description of the problem you plan to work on
    - Your main research question

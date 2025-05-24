@@ -33,7 +33,7 @@ The course combines theoretical discussions, case studies, and hands-on activiti
 
 ### Schedule
 **May 22 - Morning ([Digital Futures Hub](https://www.google.se/maps/place/Digital+Futures/@59.3472396,18.0723632,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9de616778af7:0x5838374d0c22d332!8m2!3d59.3472396!4d18.0723632!16s%2Fg%2F11kv7pn2qr?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D))**
-- 9:00-10:20, Session 1: Who Holds Power in Technology?, Amir H. Payberah [[slides](https://github.com/KTHfem-tech/phdschool/blob/main/slides/Session1.pdf)]
+- 9:00-10:20, Session 1: Who Holds Power in Technology?, Amir H. Payberah [[slides](https://github.com/KTHfem-tech/phdschool/blob/main/slides/Session1.pdf)] [[slides-Benetteda](https://github.com/KTHfem-tech/phdschool/blob/main/slides/Session1-Benedetta.pdf)]
 - 10:20-10:40, Break
 - 10:40-12:00, Group Activity 1 (part 1): Addressing bias in Text-to-Image generative models, Amir H. Payberah [[instruction](https://docs.google.com/document/d/1Z8s9qTntFXS4LEWdzBrHa8sMfOHCzkt3tDcGnz5aJSE/edit?usp=sharing)]
 
@@ -43,14 +43,14 @@ The course combines theoretical discussions, case studies, and hands-on activiti
 - 14:40-16:00, Group Activity 1 (part 2): Addressing bias in Text-to-Image generative models, Amir H. Payberah [[instruction](https://docs.google.com/document/d/1Z8s9qTntFXS4LEWdzBrHa8sMfOHCzkt3tDcGnz5aJSE/edit?usp=sharing)]
 
 **May 23 - Morning ([Digital Futures Hub](https://www.google.se/maps/place/Digital+Futures/@59.3472396,18.0723632,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9de616778af7:0x5838374d0c22d332!8m2!3d59.3472396!4d18.0723632!16s%2Fg%2F11kv7pn2qr?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D))**
-- 9:00-10:20, Session 3: Rethinking Design-Tech Beyond Binaries, Amir H. Payberah
+- 9:00-10:20, Session 3: Rethinking Design-Tech Beyond Binaries, Amir H. Payberah [[slides](https://github.com/KTHfem-tech/phdschool/blob/main/slides/Session3.pdf)]
 - 10:20-10:40, Break
 - 10:40-12:00, Group Activity 2: Studying invisible labor in AI, Amir H. Payberah [[instruction](https://docs.google.com/document/d/1WdmUcncgxE1uSQxZgVitU4vkH-hFG2WzMpKW35E8zSo/edit?usp=sharing)]
 
 **May 23 - Afternoon ([D-building, room 4618](https://www.kth.se/places/room/id/33de4c8c-89cc-458e-bbfb-e271e677f886?l=en))**
 - 13:30-15:00, Session 4: Tech Activism and Building Feminist Futures, Marianela Ciolfi Felice
 - 15:00-15:40, Break
-- 15:40-17:00, Panel discussion, Panelist: Rosanna Bellini, Maryam Mehrnezhad, and Ivana Feldfeber, Moderator: Marianela Ciolfi Felice
+- 15:40-17:00, Panel discussion, Panelists: Rosanna Bellini, Maryam Mehrnezhad, and Ivana Feldfeber, Moderator: Marianela Ciolfi Felice
 
 ---
 
